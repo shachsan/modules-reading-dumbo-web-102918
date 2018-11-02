@@ -3,4 +3,5 @@ module FancyDance
   end
 
   module MetaDancing
+  end
 end
