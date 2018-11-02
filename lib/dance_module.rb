@@ -1,4 +1,4 @@
 module Dance
   def twirl
-    I'm tw
+    I'm twirling
 end
