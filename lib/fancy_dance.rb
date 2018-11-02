@@ -1,5 +1,5 @@
 module FancyDance
-  module Dance
+  module In
     def twirl
       "I'm twirling!"
     end
