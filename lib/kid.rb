@@ -3,7 +3,8 @@ require_relative './class_methods_module.rb'
 class Kid
   include Dance
 
-  def initialize(anme)
+  def initialize(name)
+    
 
   end
 end
