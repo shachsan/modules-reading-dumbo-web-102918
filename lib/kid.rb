@@ -4,7 +4,7 @@ class Kid
   include Dance
 
   def initialize(name)
-    @name 
+    @name = name
 
   end
 end
