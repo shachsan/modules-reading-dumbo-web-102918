@@ -1,6 +1,6 @@
 module FancyDance
   module Dance
-  end 
+  end
 
-    module MetaDancing
+  module MetaDancing
 end
